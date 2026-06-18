@@ -49,5 +49,5 @@ Operator_B consistently gets much higher results, crossing the failure limit.
 The Verdict: The electronic boards were completely fine. The issue was Reproducibility (the difference between operators).
 
 ### How to run the code
-1. Open the notebook: 02_gage_r_r_analysis.ipynb
+1. Open the notebook: gage_r_r_analysis.ipynb
 2. Run the cells to reproduce the data simulation and view the visualization.
